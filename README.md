@@ -1,2 +1,2 @@
-# Pressure-Mag-for-lehui-s-Kirss-Vector
+# PressureMag-for-Kirss_Vector-Lehui
 短剑压力匣-乐辉

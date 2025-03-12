@@ -12,12 +12,9 @@
   -是人类  
   
 # 材料准备
-  1.齿轮，0.5模（m=0.5）齿轮24（T=24）塑料玩具齿轮
-![tb_image_share_1741795549497 jpg](https://github.com/user-attachments/assets/18a9aa38-6b38-4cc6-b19a-c460fe35684d)
-
-
-
-
+  1.齿轮，0.5模（m=0.5）齿轮24（T=24）塑料玩具齿轮  
+  <img src="https://github.com/NekoKori/PressureMag-for-KirssVector-Lehui/blob/main/Images/tb_image_1.jpg" width="400">
+  
 ## License
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="cc by-nc-sa" width="196" height="62" style="float:right">

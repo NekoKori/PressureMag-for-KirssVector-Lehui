@@ -1,6 +1,8 @@
 # PressureMag-for-KirssVector-Lehui
-短剑压力匣-乐辉
-<img src="[https://github.com/user-attachments/assets/fb5cb022-5e3f-4551-9ff7-2630caf3e1f0)" weight="62" >
+短剑压力匣-乐辉  
+<img src="https://github.com/NekoKori/PressureMag-for-KirssVector-Lehui/blob/main/Images/Render-1.png" width="400">
+
+
 
 # 准备工作
 
